@@ -8,6 +8,7 @@ Sou apaixonado por tecnologia, automação e em resolver problemas reais atravé
 * 🤖 Tricampeão da **Olimpíada Brasileira de Robótica (OBR)** — onde minha base de lógica e resolução de problemas foi forjada!
 * 💡 Nas horas vagas, sou um entusiasta de projetos DIY de eletrônica, hardware modding, IoT e automóveis.
 * 🏪 Fundador Ecommerce Buyisy (2021 - 2/2024)
+* 👨🏻‍💻 Empresário no ramo de IoT, Moda eImobiliário
 
 ### 💻 O que estou construindo agora
 * **[ByteQuest](https://bytequest.com.br)**: Minha startup em desenvolvimento! Uma plataforma focada em conectar desenvolvedores freelancers a projetos reais.
