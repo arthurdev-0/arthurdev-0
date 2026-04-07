@@ -26,4 +26,5 @@ Sou apaixonado por tecnologia, automação e em resolver problemas reais atravé
 * **Instagram:** https://www.instagram.com/arthur.s0_/
 
 ---
-⭐️ **Não mate seus sonhos para agradar o medo dos outros**
+**Não mate seus sonhos para agradar o medo dos outros**
+"O indivíduo não precisa de um prédio e sim esperança."
