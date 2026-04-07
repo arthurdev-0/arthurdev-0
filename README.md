@@ -27,4 +27,4 @@ Sou apaixonado por tecnologia, automação e em resolver problemas reais atravé
 
 ---
 **Não mate seus sonhos para agradar o medo dos outros**
-"O indivíduo não precisa de um prédio e sim esperança."
+### "O indivíduo não precisa de um prédio e sim esperança."
