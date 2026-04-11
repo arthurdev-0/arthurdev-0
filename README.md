@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia, automação e em resolver problemas reais atravé
 * **[ByteQuest](https://bytequest.com.br)**: Minha startup em desenvolvimento! Uma plataforma focada em conectar desenvolvedores freelancers a projetos reais.
 * **SDA (Sistema de Direitos Autorais)**: Atuando no desenvolvimento de um MVP corporativo para a Editora SENAC, lidando com arquitetura moderna baseada em **Laravel, Vue.js e Docker**.
 * **Specc | Built to Spec**: Moda Automotiva, Feminina, Masculina e personalizados.
-* **Arthur Sartorial | Moda de luxo for Bos
+* **Arthur Sartorial** | Moda de luxo for Bos
 
 ### 🛠️ Minhas Ferramentas & Tecnologias
 * **IA & Dados:** Python, Machine Learning
