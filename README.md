@@ -21,8 +21,11 @@ Sou apaixonado por tecnologia, automação e em resolver problemas reais atravé
 * **Web Dev:** PHP, Laravel, Vue.js, TailwindCSS
 * **Infra & Ferramentas:** Docker, Git/GitHub, Bancos de Dados Relacionais
 
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width= "10" height="10"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width= "65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="65" height="65"/>
 
 ### 📫 Como me encontrar
 * **LinkedIn:** https://www.linkedin.com/in/arthur-sousa-dev/
