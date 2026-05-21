@@ -21,6 +21,9 @@ Sou apaixonado por tecnologia, automação e em resolver problemas reais atravé
 * **Web Dev:** PHP, Laravel, Vue.js, TailwindCSS
 * **Infra & Ferramentas:** Docker, Git/GitHub, Bancos de Dados Relacionais
 
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+
+
 ### 📫 Como me encontrar
 * **LinkedIn:** https://www.linkedin.com/in/arthur-sousa-dev/
 * **E-mail:** arthurargus262@gmail.com
