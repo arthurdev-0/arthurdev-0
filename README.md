@@ -8,13 +8,15 @@ Sou apaixonado por tecnologia, automação e em resolver problemas reais atravé
 * 🤖 Tricampeão da **Olimpíada Brasileira de Robótica (OBR)** — onde minha base de lógica e resolução de problemas foi forjada!
 * 💡 Nas horas vagas, sou um entusiasta de projetos DIY de eletrônica, hardware modding, IoT e automóveis.
 * 🏪 Fundador Ecommerce Buyisy (2021 - 2/2024)
+* ⚙️ Fundador da Synes.ia
+* 🚗 Co-founder da Mecsync
 * 👨🏻‍💻 Empresário no ramo de IoT, Moda e Imobiliário
 
 ### 💻 O que estou construindo agora
 * **[ByteQuest](https://bytequest.com.br)**: Minha startup em desenvolvimento! Uma plataforma focada em conectar desenvolvedores freelancers a projetos reais.
 * **SDA (Sistema de Direitos Autorais)**: Atuando no desenvolvimento de um MVP corporativo para a Editora SENAC, lidando com arquitetura moderna baseada em **Laravel, Vue.js e Docker**.
 * **Specc | Built to Spec**: Moda Automotiva, Feminina, Masculina e personalizados.
-* **Arthur Sartorial** | Moda de luxo
+* **Synes.ia**: Uma plataforma completa de CRM com gestão de funcionários e Atendimento com IA e automação.
 
 ### 🛠️ Minhas Ferramentas & Tecnologias
 * **IA & Dados:** Python, Machine Learning
