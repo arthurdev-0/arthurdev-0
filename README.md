@@ -5,11 +5,12 @@ Sou apaixonado por tecnologia, automação e em resolver problemas reais atravé
 ### 🚀 Sobre mim
 * 🎓 Pós-graduando em **IA & Machine Learning** no Senac.
 * 💼 Estagiário de TI na **G4F / Senac**, atuando no desenvolvimento de sistemas corporativos.
-* 🤖 Tricampeão da **Olimpíada Brasileira de Robótica (OBR)** — onde minha base de lógica e resolução de problemas foi forjada!
+* 🤖 Tricampeão da **Olimpíada Brasileira de Robótica (OBR)**
 * 💡 Nas horas vagas, sou um entusiasta de projetos DIY de eletrônica, hardware modding, IoT e automóveis.
 * 🏪 Fundador Ecommerce Buyisy (2021 - 2/2024)
 * ⚙️ Fundador da Synes.ia
 * 🚗 Co-founder da Mecsync
+* 🏢 Co-fundador da GA Corp.
 * 👨🏻‍💻 Empresário no ramo de IoT, Moda e Imobiliário
 
 ### 💻 O que estou construindo agora
