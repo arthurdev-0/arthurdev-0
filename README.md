@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia, automação e em resolver problemas reais atravé
 * **[ByteQuest](https://bytequest.com.br)**: Minha startup em desenvolvimento! Uma plataforma focada em conectar desenvolvedores freelancers a projetos reais.
 * **SDA (Sistema de Direitos Autorais)**: Atuando no desenvolvimento de um MVP corporativo para a Editora SENAC, lidando com arquitetura moderna baseada em **Laravel, Vue.js e Docker**.
 * **Specc | Built to Spec**: Moda Automotiva, Feminina, Masculina e personalizados.
-* **Synes.ia**: Uma plataforma completa de CRM com gestão de funcionários e Atendimento com IA e automação.
+* **[Synes.ia](https://synes.com.br)**: Uma plataforma completa de CRM com gestão de funcionários e Atendimento com IA e automação.
 
 ### 🛠️ Minhas Ferramentas & Tecnologias
 * **IA & Dados:** Python, Machine Learning
